@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ishaan 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning spring 
 - 💞️ I’m looking to collaborate on projects related to full stack development
 - 📫 How to reach me https://www.linkedin.com/in/ishaan-walecha-929112188/
 
